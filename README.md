@@ -13,6 +13,22 @@
   <img align="center" alt="numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
 </div><br/>
 
+## GitHub Stats ⚡
+<div>
+  <a href="https://github.com/andre3103">
+  <center>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andre3103&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="centered image">
+  </center>
+  <center>  
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre3103&layout=compact&langs_count=7&theme=radical"/> 
+  </center>
+</div>
+
+## Reach me 📫
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-quadros-898407173/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andrerosario31/) 
+[![Gmail](https://img.shields.io/badge/-gabrielleribeiro2010@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:andre.rosario31@gmail.com)](mailto:andre.rosario31@gmail.com)
+
 <!--
 **andre3103/andre3103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
